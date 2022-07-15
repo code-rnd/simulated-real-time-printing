@@ -6,3 +6,5 @@
 
 Как развернуть проект:
 ветка `main` => `git clone` => `npm i` => `npm start`
+
+![img.png](img.png)
